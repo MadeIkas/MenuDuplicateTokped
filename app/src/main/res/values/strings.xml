@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PortofolioDuplicateTokped</string>
+
+    //bottom navigation
+    <string name="home">Home</string>
+    <string name="search">Feed</string>
+    <string name="officialstore">OfficialStore</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="akun">Akun</string>
+</resources>
